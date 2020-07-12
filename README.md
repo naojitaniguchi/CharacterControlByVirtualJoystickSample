@@ -2,11 +2,11 @@
 
 [![youtube](https://img.youtube.com/vi/qPLy9R8bcR0/0.jpg)](http://www.youtube.com/watch?v=qPLy9R8bcR0 "Unity character control by virtual joystick sample.")
 
-以下のAssetを使っています。
+以下のAssetを使っています。  
 Joystick Pack  
 https://assetstore.unity.com/packages/tools/input-management/joystick-pack-107631
 
-Unity-Chan
+Unity-Chan  
 https://assetstore.unity.com/packages/3d/characters/unity-chan-model-18705
 
 画面上のジョイスティックを傾けた方向に、Unityちゃんが向きます。  
