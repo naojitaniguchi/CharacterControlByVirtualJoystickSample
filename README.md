@@ -13,4 +13,7 @@ https://assetstore.unity.com/packages/3d/characters/unity-chan-model-18705
 ジョイスティックの値によって、走る、歩く、待機のアニメーションが切り替わります。  
 スペースボタンでジャンプ。  
 
+[![youtube](https://img.youtube.com/vi/SOwQWoMw_aY/0.jpg)](http://www.youtube.com/watch?v=SOwQWoMw_aY "Scene change by OnTriggerEnter sample.")
+
+https://youtu.be/SOwQWoMw_aY
 
