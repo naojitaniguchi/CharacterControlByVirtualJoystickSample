@@ -692,6 +692,24 @@ GameObject:
     type: 3}
   m_PrefabInstance: {fileID: 946955890}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &560655688
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 560655687}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 499b5f6d713334f30addc6a08c1f440f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  walkSpeed: 1
+  runSpeed: 3
+  variableJoystick: {fileID: 1231306548}
+  gamePadSupport: 0
+  runJoyStickValue: 0.5
+  walkJoyStickValue: 0.1
 --- !u!114 &560655693
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -736,24 +754,6 @@ CapsuleCollider:
   m_Height: 2
   m_Direction: 1
   m_Center: {x: 0, y: 1, z: 0}
---- !u!114 &560655696
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 560655687}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 35f5cf4b721e246a89f7ee5155c3c59e, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkSpeed: 1
-  runSpeed: 3
-  variableJoystick: {fileID: 1231306548}
-  JoyStickMode: 1
-  runJoyStickValue: 0.5
-  walkJoyStickValue: 0.1
 --- !u!1 &564283750
 GameObject:
   m_ObjectHideFlags: 0
@@ -893,7 +893,7 @@ GameObject:
   - component: {fileID: 684078487}
   m_Layer: 0
   m_Name: Plane
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

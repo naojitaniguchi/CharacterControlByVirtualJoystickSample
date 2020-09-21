@@ -17,3 +17,5 @@ https://assetstore.unity.com/packages/3d/characters/unity-chan-model-18705
 
 https://youtu.be/SOwQWoMw_aY
 
+スロープを登るサンプル SceneSlope
+[![youtube](https://img.youtube.com/vi/IDNXgLl1bmI/0.jpg)](http://www.youtube.com/watch?v=IDNXgLl1bmI "Running on a slope sample.")
