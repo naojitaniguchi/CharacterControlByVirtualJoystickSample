@@ -15,7 +15,7 @@ https://assetstore.unity.com/packages/3d/characters/unity-chan-model-18705
 
 [![youtube](https://img.youtube.com/vi/SOwQWoMw_aY/0.jpg)](http://www.youtube.com/watch?v=SOwQWoMw_aY "Scene change by OnTriggerEnter sample.")
 
-https://youtu.be/SOwQWoMw_aY
 
-スロープを登るサンプル SceneSlope
+
+スロープを登るサンプル SceneSlope  
 [![youtube](https://img.youtube.com/vi/IDNXgLl1bmI/0.jpg)](http://www.youtube.com/watch?v=IDNXgLl1bmI "Running on a slope sample.")
